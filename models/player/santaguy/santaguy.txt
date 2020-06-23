@@ -1,0 +1,31 @@
+--------------------------------------------
+ SPASTiC'S SANTA  for THE SPECiALiSTS MOD
+--------------------------------------------
+
+
+CREDiTS:
+
+Hat/Body model, hacked/mesh/compile - SPASTiC CHiLD
+Head model/skin & Belt texture - Wolfenstein
+Hands model/skin - Max Payne
+Suit texture (from UT Agent Smith model) - John Turner
+T-Shirt texture - SOF2
+
+idle_onehanded anim, combat_idle_low & katana_idle anims - Quad
+wheel_f anim - Tigerstyle
+
+
+FOR RETARDS:
+
+Extract the 'santaguy' folder to your Half-Life\TS\models\player directory.
+
+
+Merry Christmas
+luv,
+SPASTiC CHiLD
+
+obliviondude@hotmail.com
+www.specialskool.waistdeepinentrails.co.uk
+
+
+

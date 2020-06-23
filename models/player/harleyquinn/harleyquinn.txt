@@ -1,0 +1,26 @@
+
+================================================================
+Title                   : Harleyquinn
+Author                  : Ringo Tragedy
+Email Address           : rotorstudios@excite.com
+
+Description             : Harley Quinn model for Half-Life
+
+Additional Credits to   : White Dragon who created the very cool
+			  Onna model that this is based on.
+================================================================
+
+DESCRIPTION
+
+Harley Quinn, the coolest Batman Bad-girl.
+
+INSTALLATION
+
+   Make a folder called "Harleyquinn" in your Valve/models/players folder. Unzip harleyquinn.mdl 
+   and harleyquinn.bmp into there.
+   
+
+DISCLAIMER
+
+This files is for personal entertainment use only, yadda yadda yadda...
+Harley Quinn and Batman are owned and I presume copywrited by DC Comics.

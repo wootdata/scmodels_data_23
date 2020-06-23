@@ -1,0 +1,59 @@
+15/6/00
+________________________________________________________________
+
+Model Name              : The Crow (v1.0)
+
+Author                  : Matt Spriggens
+
+Email Address           : mspriggens@hotmail.com
+
+Model description       : Eric Draven, from the movie, The Crow,
+			  played by Brandon Lee.
+
+			  He has black and white face-paint and
+			  black leather clothes...plus a bit of
+			  duct-tape.
+________________________________________________________________
+
+Poly Count:	642 
+
+Textures:	1 x (256*256 8bit)
+
+Animations:	Sorry...no custom anims, just Valve standard.
+
+Editor used: 
+	* Model		- 3D Studio Max 3.1
+	* textures	- Photoshop 5.5
+
+Known Bugs:	The skin is a bit seammy around the pants area
+		and the boots could do with a bit more detail.
+		Also, it looks like he has a flat-top where he
+		should have long hair (Staying true to the movie).
+________________________________________________________________
+
+"People once believed that when someone dies, a crow carries their
+soul to the land of the dead...but sometimes, something so bad happens
+that a terrible sadness is carried with it, and the soul can't rest.
+
+...Then sometimes, just sometimes, the crow can bring that soul back
+to put the wrong things right."
+
+
+A dead guy with a vengence and a bucket of face paint...nuff said!
+
+
+INSTALLATION
+------------
+Just extract to your Half-Life base directory.
+
+
+*NOTE*
+This is my first real attempt at player modelling (or any modelling
+for that matter) and it still needs a bit of work but it serves its
+purpose.  When i get some time, I'll do some custom animations for him.
+
+
+P.S. Thanks to Scarecrow for the helpful tutes and Andrew & Jason at QANTM,
+     Brisbane Australia.
+
+     Have Fun :)

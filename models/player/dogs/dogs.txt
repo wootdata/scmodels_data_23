@@ -1,0 +1,18 @@
+Reservoir Dogs Skin by [BoA]Mr_WhiTe [AKA SniPeRBUnNy]
+=============================================
+Installation : Unzip the contents of this file into your HalfLife/Valve/Models/Player/dogs  folder. Then simply select the skin from the Multiplayer Customisation option within the game.
+=============================================
+=============================================
+Skin Name        : Reservoir Dogs
+Folder           : /dogs
+Author           : Mr WhiTe [Jordan Butters]
+E-Mail           : dollarbill@btinternet.com
+Website          : http://www.ukswclub.freeserve.co.uk
+Editors used     : MGI Photosuit '97, Wavelength Skin Editing Tutorial,                                     Modviewer by Matthew Wolfe
+Additonal Thanks : 8 ball for sending me the skin making tutorial, and the entire BoA clan for                    feedback on my first skin - BoA 4 EveR.
+==============================================
+Notes            : If you wish to use this skin for your clan, please tell me first.
+==============================================
+
+Skin by Jordan Butters
+***NB*** 	If this skin is to be used on a CD or other form of Multimedia Distribution then                 any credit given goes to Jordan Butters. Also, please ask before including it on                 any such distributive method - dollarbill@btinternet.com

@@ -1,0 +1,26 @@
+'Giggles the Clown'
+ Player plug-in model for Half Life
+
+I am known for my skins site.  This is my first 'released" HL modelling attempt. 
+
+The model was built from several different sources.
+The head and collar were built by me.  It was done in Lightewave, then exported out to Milkshape.
+The base for the body was taken from the Heavy Weapon model from TFC.  As you may notice however, it is very much altered.  It was simply used as a starting point, much like using a base block figure (as in Scarecrow's tutorials).
+The hands were taken from Gordon Freeman.  What can I say?  They're good.
+The skin was made to use as much space on the square as possible.  It also uses the customizing colors.  Yay! :)
+
+Giggles the Clown hosted birthday parties for a living along with his buddy, "Dimples".  Day in, day out, they played with the little tykes.  Giggles had to do this because he just couldn't get work at the circus.  For some reason, time in a mental institution was looked upon unfavorably at his interviews.  Luckily for him, parents aren't too careful about who they let into their home.  Besides, the institution was a good experience for him.  He met "Dimples" there.  One day, however, while playing at a party, he felt odd when he met birthday boy.  Something just didn't sit right with him.  Perhaps it was the kids big head, or dark eyes...  Whatever it was, Giggles new "they" had come for him.  He was prepared...  Giggles was always prepared... That night, the local news called the massacre a "tragedy".  Giggles new better.  He would not let them take him back to the mother ship!  With no one to turn to except for his trusted buddy, Dimples, he remains on the run...
+
+Model: Giggles
+Directory: Giggles
+Faces: 572?  Not quite sure, because I tweaked the model a few times, possibly gaining and losing in the process.
+Skins: 1 : 1x256x256  'DM_base.bmp'
+Animations: Valve animations
+
+Installation 
+Unzip the zipfile.  Make sure you put it into your Sierra/half-life/valve/models/player folder in a folder called 'Giggles'.
+
+I hope you guys like him!
+
+Bamphalas
+http://i.am/bamphalas/
