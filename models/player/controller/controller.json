@@ -1,1 +1,263 @@
-{"seq_groups": 1, "hash": "b8acfd80d4ac6752d12c623e32d1cce8", "tri_count": "736"}
+{
+	"attachments": [
+		{
+			"bone": 16,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 16,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 11,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 15,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "CONTROLLER_Biped-Template1",
+					"polys": 736,
+					"verts": 364
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 5,
+			"frame": 0,
+			"options": "29",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 29,
+			"options": "6",
+			"sequence": 0,
+			"type": 0
+		}, 
+		{
+			"event": 4,
+			"frame": 0,
+			"options": "25",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 3,
+			"frame": 25,
+			"options": "20",
+			"sequence": 1,
+			"type": 0
+		}, 
+		{
+			"event": 1,
+			"frame": 28,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 2,
+			"frame": 56,
+			"options": "",
+			"sequence": 5,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "b8acfd80d4ac6752d12c623e32d1cce8",
+	"name": "C:\\games\\Half-Life\\SvenCoop\\models\\celshadefacory\\controller.mdl¬ª",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 51,
+			"name": "attack1"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 51,
+			"name": "attack2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 46,
+			"name": "throw"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 51,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 26,
+			"name": "block"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 71,
+			"name": "shoot"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "flinch1"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 41,
+			"name": "flinch2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 21,
+			"name": "fall"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 19,
+			"name": "forward"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 26,
+			"name": "backward"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 24,
+			"name": "up"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 28,
+			"name": "down"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 21,
+			"name": "right"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 21,
+			"name": "left"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "float"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "walk"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 31,
+			"name": "run"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 51,
+			"name": "die1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 7
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 284,
+			"name": "kirby.bmp",
+			"width": 348
+		}
+	],
+	"version": 10
+}

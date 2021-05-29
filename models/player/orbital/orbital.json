@@ -1,1 +1,93 @@
-{"seq_groups": 1, "hash": "af2a3ae9f1aec5e9a74450e4ba31426b", "tri_count": "352"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "sat_globe_ref",
+					"polys": 352,
+					"verts": 204
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "af2a3ae9f1aec5e9a74450e4ba31426b",
+	"name": "/quiver/valve/models/sat_globe.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 5.000000,
+			"frames": 31,
+			"name": "orbit"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "innercylinder",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": 4
+		}, 
+		{
+			"name": "",
+			"parent": 4
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "topo.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 40,
+			"name": "orange.bmp",
+			"width": 12
+		}, 
+		{
+			"flags": 0,
+			"height": 16,
+			"name": "green.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 14,
+			"name": "offline.bmp",
+			"width": 240
+		}, 
+		{
+			"flags": 0,
+			"height": 14,
+			"name": "array.bmp",
+			"width": 240
+		}
+	],
+	"version": 10
+}
