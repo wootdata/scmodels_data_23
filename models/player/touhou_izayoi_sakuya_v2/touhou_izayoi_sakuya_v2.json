@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_izayoi_sakuya_head",
+					"name": "head",
 					"polys": 2991,
 					"verts": 1478
 				}
@@ -35,9 +35,9 @@
 		{
 			"models": [
 				{
-					"name": "touhou_izayoi_sakuya_body",
+					"name": "body",
 					"polys": 3510,
-					"verts": 1873
+					"verts": 1874
 				}
 			],
 			"name": "body"
@@ -45,9 +45,9 @@
 		{
 			"models": [
 				{
-					"name": "touhou_izayoi_sakuya_dog",
+					"name": "dog",
 					"polys": 338,
-					"verts": 252
+					"verts": 255
 				}
 			],
 			"name": "dog"
@@ -55,7 +55,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_izayoi_sakuya_amm",
+					"name": "amm",
 					"polys": 1700,
 					"verts": 862
 				}
@@ -65,7 +65,7 @@
 		{
 			"models": [
 				{
-					"name": "touhou_izayoi_sakuya_leg",
+					"name": "leg",
 					"polys": 1396,
 					"verts": 715
 				}
@@ -216,14 +216,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "42",
+			"options": "20",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -341,7 +341,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "50a458b2d4a8942c2626bb47f9b0aacd",
+	"md5": "0f4704850a7a6e8037802f5e579321c5",
 	"name": "touhou_izayoi_sakuya.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1301,7 +1301,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1833340,
+	"size": 1824172,
 	"skeleton": [
 		{
 			"name": "Bip01",

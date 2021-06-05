@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "body1",
-					"polys": 3462,
-					"verts": 1740
+					"name": "touhou_yakumo_yukari_body1",
+					"polys": 2504,
+					"verts": 1276
 				}
 			],
 			"name": "body"
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "body2",
+					"name": "touhou_yakumo_yukari_body2",
 					"polys": 3414,
 					"verts": 1742
 				}
@@ -45,7 +45,7 @@
 		{
 			"models": [
 				{
-					"name": "body3",
+					"name": "touhou_yakumo_yukari_body3",
 					"polys": 3411,
 					"verts": 1740
 				}
@@ -55,7 +55,7 @@
 		{
 			"models": [
 				{
-					"name": "face",
+					"name": "touhou_yakumo_yukari_face",
 					"polys": 3301,
 					"verts": 1933
 				}
@@ -65,7 +65,7 @@
 		{
 			"models": [
 				{
-					"name": "head1",
+					"name": "touhou_yakumo_yukari_head1",
 					"polys": 592,
 					"verts": 339
 				}
@@ -75,7 +75,7 @@
 		{
 			"models": [
 				{
-					"name": "hair1",
+					"name": "touhou_yakumo_yukari_hair1",
 					"polys": 973,
 					"verts": 505
 				}
@@ -85,7 +85,7 @@
 		{
 			"models": [
 				{
-					"name": "hair2",
+					"name": "touhou_yakumo_yukari_hair2",
 					"polys": 1087,
 					"verts": 712
 				}
@@ -95,7 +95,7 @@
 		{
 			"models": [
 				{
-					"name": "hair3",
+					"name": "touhou_yakumo_yukari_hair3",
 					"polys": 1076,
 					"verts": 707
 				}
@@ -105,9 +105,9 @@
 		{
 			"models": [
 				{
-					"name": "hair4",
+					"name": "touhou_yakumo_yukari_hair4",
 					"polys": 3800,
-					"verts": 1929
+					"verts": 1926
 				}
 			],
 			"name": "body"
@@ -115,7 +115,7 @@
 		{
 			"models": [
 				{
-					"name": "cab",
+					"name": "touhou_yakumo_yukari_cab",
 					"polys": 2672,
 					"verts": 1417
 				}
@@ -125,7 +125,7 @@
 		{
 			"models": [
 				{
-					"name": "up",
+					"name": "touhou_yakumo_yukari_up",
 					"polys": 1848,
 					"verts": 972
 				}
@@ -135,7 +135,7 @@
 		{
 			"models": [
 				{
-					"name": "down",
+					"name": "touhou_yakumo_yukari_down",
 					"polys": 2586,
 					"verts": 1356
 				}
@@ -145,7 +145,7 @@
 		{
 			"models": [
 				{
-					"name": "down1",
+					"name": "touhou_yakumo_yukari_down1",
 					"polys": 2586,
 					"verts": 1356
 				}
@@ -155,7 +155,7 @@
 		{
 			"models": [
 				{
-					"name": "1",
+					"name": "touhou_yakumo_yukari_1",
 					"polys": 2780,
 					"verts": 1414
 				}
@@ -165,7 +165,7 @@
 		{
 			"models": [
 				{
-					"name": "2",
+					"name": "touhou_yakumo_yukari_2",
 					"polys": 2730,
 					"verts": 1397
 				}
@@ -175,7 +175,7 @@
 		{
 			"models": [
 				{
-					"name": "d1",
+					"name": "touhou_yakumo_yukari_d1",
 					"polys": 2101,
 					"verts": 1211
 				}
@@ -185,7 +185,7 @@
 		{
 			"models": [
 				{
-					"name": "d2",
+					"name": "touhou_yakumo_yukari_d2",
 					"polys": 40,
 					"verts": 32
 				}
@@ -195,7 +195,7 @@
 		{
 			"models": [
 				{
-					"name": "d3",
+					"name": "touhou_yakumo_yukari_d3",
 					"polys": 204,
 					"verts": 128
 				}
@@ -205,7 +205,7 @@
 		{
 			"models": [
 				{
-					"name": "d4",
+					"name": "touhou_yakumo_yukari_d4",
 					"polys": 1038,
 					"verts": 658
 				}
@@ -215,7 +215,7 @@
 		{
 			"models": [
 				{
-					"name": "d5",
+					"name": "touhou_yakumo_yukari_d5",
 					"polys": 410,
 					"verts": 262
 				}
@@ -225,7 +225,7 @@
 		{
 			"models": [
 				{
-					"name": "foot",
+					"name": "touhou_yakumo_yukari_foot",
 					"polys": 788,
 					"verts": 422
 				}
@@ -376,14 +376,14 @@
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -501,8 +501,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "7b65d442592a6931016b90c1c679746e",
-	"name": "touhou_yakumo_yukari.mdl",
+	"md5": "43bdc1a7e96a71e5a4ea3c4b3cf36618",
+	"name": "yukari.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1461,7 +1461,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2145388,
+	"size": 2139316,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1564,6 +1564,12 @@
 		{
 			"flags": 0,
 			"height": 256,
+			"name": "w.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
 			"name": "face.bmp",
 			"width": 256
 		}, 
@@ -1590,12 +1596,6 @@
 			"height": 100,
 			"name": "red.bmp",
 			"width": 100
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "w.bmp",
-			"width": 256
 		}, 
 		{
 			"flags": 0,
