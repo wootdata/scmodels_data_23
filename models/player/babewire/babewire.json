@@ -301,23 +301,23 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "1e093176c4133378ce46e589122f4309",
-	"name": "babewire.mdl",
+	"md5": "693fff2d58cbe8bed69eb934fe138990",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode",
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
-			"frames": 40,
+			"frames": 31,
 			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 40,
+			"frames": 31,
 			"name": "idle"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 40,
+			"frames": 31,
 			"name": "deep_idle"
 		}, 
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1138572,
+	"size": 1094540,
 	"skeleton": [
 		{
 			"name": "Bip01",
