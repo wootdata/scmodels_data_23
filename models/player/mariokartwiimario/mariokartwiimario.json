@@ -14,20 +14,15 @@
 			"bone": 14,
 			"name": "",
 			"type": 0
-		}, 
-		{
-			"bone": 10,
-			"name": "",
-			"type": 0
 		}
 	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "Mario",
-					"polys": 666,
-					"verts": 354
+					"name": "MarioKartWII",
+					"polys": 702,
+					"verts": 378
 				}
 			],
 			"name": "body"
@@ -36,34 +31,34 @@
 	"controllers": [
 		{
 			"bone": 2,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 0,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 3,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 1,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 4,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 2,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}, 
 		{
 			"bone": 5,
-			"end": 30.000000,
+			"end": 20.000000,
 			"index": 3,
 			"rest": 0,
-			"start": -30.000000,
+			"start": -20.000000,
 			"type": 8
 		}
 	],
@@ -301,8 +296,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "18a69de1d39bb55e754ec01a9f1ce14f",
-	"name": "gordon.mdl",
+	"md5": "0cda35924a9f6ec6f954404bbd61d69c",
+	"name": "C:\\Users\\Danara\\Desktop\\MarioKartWiiMario\\MarioKartWiiMario.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1261,7 +1256,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 895028,
+	"size": 984216,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1296,32 +1291,32 @@
 			"parent": 6
 		}, 
 		{
-			"name": "Bip01 L Arm1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 9
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 6
 		}, 
 		{
+			"name": "Bip01 L Arm1",
+			"parent": 7
+		}, 
+		{
 			"name": "Bip01 R Arm1",
-			"parent": 11
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 12
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 13
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 Head",
@@ -1332,24 +1327,24 @@
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 17
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
+			"name": "Bip01 L Leg1",
+			"parent": 16
+		}, 
+		{
 			"name": "Bip01 R Leg1",
-			"parent": 19
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 20
+			"parent": 19
 		}
 	],
 	"skins": 1,
@@ -1366,6 +1361,12 @@
 			"height": 128,
 			"name": "mario_all.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 32,
+			"height": 256,
+			"name": "default.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ae90a3f637e41e91070ec89b1ab767ac",
-	"name": "RE_UBCS_Asian.mdl",
+	"md5": "0816bae3c886d218012075d8913fec02",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode?",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1136904,
+	"size": 1392592,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,27 +1312,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 503,
+			"height": 512,
 			"name": "terror_body.bmp",
-			"width": 504
+			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 73,
 			"name": "asian_militia_head.bmp",
-			"width": 48
+			"width": 56
 		}, 
 		{
 			"flags": 0,
 			"height": 250,
 			"name": "militiahead1.bmp",
-			"width": 252
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 74,
+			"height": 505,
 			"name": "leet_body2.bmp",
-			"width": 116
+			"width": 504
 		}, 
 		{
 			"flags": 3,
