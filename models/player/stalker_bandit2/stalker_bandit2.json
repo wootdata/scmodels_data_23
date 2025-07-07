@@ -43,6 +43,7 @@
 			"name": "Bandit"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -747,7 +748,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e28a703c17da2a88f0787b6df41c15a7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Models\\STALKER\\STALKER_Bandit1\\STALKER_Bandit2.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

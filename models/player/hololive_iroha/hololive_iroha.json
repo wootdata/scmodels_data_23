@@ -273,6 +273,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -691,7 +692,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b9f7cf04727ccbfbd95c7a0e21074575",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Hololive_Iroha.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

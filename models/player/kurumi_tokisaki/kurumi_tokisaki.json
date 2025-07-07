@@ -68,6 +68,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -338,7 +339,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fb27fc237bb1a136282544ef1c664fff",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "anime_sakura.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

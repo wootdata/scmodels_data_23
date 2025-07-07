@@ -143,6 +143,7 @@
 			"name": "CyborgNinja"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -413,7 +414,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cafd91dae41916eebe5653cf7e4c0691",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\svencoop modific\\Barri\\asd\\CrysisGordon2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

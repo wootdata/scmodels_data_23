@@ -33,6 +33,7 @@
 			"name": "torso"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e1670d1f23b63388fbdfe6af516ded97",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hitler_salute.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

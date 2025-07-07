@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 27,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "58c8c213eeee74c097e6a1c2517b6731",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_sargef.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

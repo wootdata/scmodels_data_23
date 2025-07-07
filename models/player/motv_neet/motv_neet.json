@@ -43,6 +43,7 @@
 			"name": "weapons"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b51515843f1dffa2cc652b83d2b9b0e7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "motv_neet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

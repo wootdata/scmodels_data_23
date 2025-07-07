@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -331,7 +332,11 @@
 	],
 	"id": 1414743113,
 	"md5": "35eb9d2ac9c4b80a719ff51e5d8143fc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hla_vortigaunt.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

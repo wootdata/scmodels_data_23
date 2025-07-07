@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -419,7 +420,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5375ad370a1fe686e36b78d27f518be3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nepUD_Kaleun-Rejsyg_v1H3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

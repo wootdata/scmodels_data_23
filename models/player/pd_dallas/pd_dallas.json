@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5e90407eb23fc7cbe08fa4f6e9670336",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RED_Coneja5.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

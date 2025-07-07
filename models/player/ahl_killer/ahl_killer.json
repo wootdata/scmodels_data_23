@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 24,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7501c9589262b238aa3f20218fd2868e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ahl_killer.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -28,6 +28,7 @@
 			"name": "marine"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b5304b0b5d80de5e7f486e0cdad697aa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "NS_SpecOPSgry.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

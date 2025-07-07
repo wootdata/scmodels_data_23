@@ -33,6 +33,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0820b098ba13aff7578435f0ea6d67a1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SF_wolf.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

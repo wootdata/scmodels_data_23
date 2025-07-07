@@ -33,6 +33,7 @@
 			"name": "Peko"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -674,7 +675,11 @@
 	],
 	"id": 1414743113,
 	"md5": "006dd74f8a31b65e5e45ad66916bcae7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Pekora_LowPoly.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "742dfa33273a05bcf9f79d5771679e4d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Legends_Warrior.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

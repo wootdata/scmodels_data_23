@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1093182158,
 	"events": [
@@ -123,7 +124,11 @@
 	],
 	"id": 1414743113,
 	"md5": "23c564ca0ad78efb0311e89e2d7905de",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bike_eightball.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

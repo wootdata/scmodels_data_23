@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a73e1ca74df9a6adbac6a7b485d0b2d6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Re4zomb_nb.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

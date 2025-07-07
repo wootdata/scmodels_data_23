@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0011295e4aab27ac00b3ef066cca7e64",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Stalker_svoboda.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

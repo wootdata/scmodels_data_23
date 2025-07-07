@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 33,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "91ee3d0991922c3fe664c4de7b7cb530",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nobita.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

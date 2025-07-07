@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "66ea5b31a223a9c3fbe32e8e5ba9b184",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "OP4_Scientist_Einstein.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

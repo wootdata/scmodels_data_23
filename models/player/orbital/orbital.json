@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1585351543,
 	"events": [],
 	"id": 1414743113,
 	"md5": "af2a3ae9f1aec5e9a74450e4ba31426b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "/quiver/valve/models/sat_globe.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

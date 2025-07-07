@@ -98,6 +98,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -368,7 +369,11 @@
 	],
 	"id": 1414743113,
 	"md5": "03ca55284c9dc0b94767c36cc99b5984",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Joshua\\Desktop\\ToyFreddy\\ToyFreddy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

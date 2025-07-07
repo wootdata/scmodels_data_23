@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "611dc25800b4d643e9c52e6301f5ec2a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\models\\punisher\\dph.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

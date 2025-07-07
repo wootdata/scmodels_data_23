@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "af6e5275b8e275e1e7bea4243b030c27",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "natosupport.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 33,
@@ -311,7 +312,11 @@
 	],
 	"id": 1414743113,
 	"md5": "79eaa7221cb5ea954be3e35db049a675",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "springman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

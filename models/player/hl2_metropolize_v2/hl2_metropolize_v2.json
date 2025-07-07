@@ -48,6 +48,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -276,7 +277,11 @@
 	],
 	"id": 1414743113,
 	"md5": "048d94c510d65f4460e367eb2b70c523",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hl2_metropolize.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

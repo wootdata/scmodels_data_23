@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -564,7 +565,11 @@
 	],
 	"id": 1414743113,
 	"md5": "577f3ab72e2b5ebffd92c9c88bdd95c3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TA_c_s_color_armor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

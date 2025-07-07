@@ -58,6 +58,7 @@
 			"name": "attachment"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fa6cf7823bf1eb2cbfb4cae270c6d393",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc_helmet2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

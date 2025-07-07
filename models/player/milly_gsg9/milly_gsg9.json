@@ -43,6 +43,7 @@
 			"name": "kao"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e1a2732cf113c55f6306421bf8fc36b1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Milly_gsg9.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

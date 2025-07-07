@@ -63,6 +63,7 @@
 			"name": "lenses"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f6acb2b75420637d41ab6e26932a2442",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hevscientist5.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

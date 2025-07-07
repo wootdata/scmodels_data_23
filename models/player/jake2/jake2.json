@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7986dff325a5e7d60e870c0451cefd3d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Jake2.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

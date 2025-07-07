@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 15,
@@ -242,7 +243,11 @@
 	],
 	"id": 1414743113,
 	"md5": "073f12d2516b2b66566432591632ac8e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_hgruntf2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -83,6 +83,7 @@
 			"name": "helmet"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -409,7 +410,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9ce1be76af04d5f832482595e0562614",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tf2_engineer_blue.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

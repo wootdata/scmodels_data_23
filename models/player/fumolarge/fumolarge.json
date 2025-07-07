@@ -173,6 +173,7 @@
 			"name": "fumo15"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -443,7 +444,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e2296f0aed8c94a7649253c7c1b56af2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_yuyuko_fumo.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

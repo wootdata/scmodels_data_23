@@ -82,6 +82,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1408792988,
 	"events": [
@@ -326,7 +327,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1aac1b34fe64219c08b7a80016a4e679",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RoshelL4D2.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

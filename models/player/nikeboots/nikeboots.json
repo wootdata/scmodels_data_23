@@ -83,6 +83,7 @@
 			"name": "SVEN_Team_Body7"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3bae4e15910384c813ce05a002be0af5",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nikeboots.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

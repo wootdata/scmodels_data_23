@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1579695883,
 	"events": [
@@ -351,7 +352,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ed65fcba14dc394dd3e7d53dac227463",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "alin.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

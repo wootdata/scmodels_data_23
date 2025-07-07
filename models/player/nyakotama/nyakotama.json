@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "627359ad1cbe7ce3e0f35fade8c9a26e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "nyakotama.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

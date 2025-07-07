@@ -53,6 +53,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e9ddc004428aa99d166b7f0087a44160",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "player\\SvenCoop\\cssurban.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

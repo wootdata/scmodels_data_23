@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -256,7 +257,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f33fb6c2e8f35d2002a92107e3c556c7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "spetznaz.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
