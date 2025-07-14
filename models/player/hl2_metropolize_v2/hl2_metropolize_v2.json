@@ -279,6 +279,7 @@
 	"md5": "048d94c510d65f4460e367eb2b70c523",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "hl2_metropolize.mdl",
 	"preview": true,
 	"readme": false,

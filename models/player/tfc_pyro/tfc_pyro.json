@@ -306,6 +306,7 @@
 	"md5": "7aec253e45dd60653542f67fe5ac0e5f",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "pyro.mdl",
 	"preview": true,
 	"readme": false,
