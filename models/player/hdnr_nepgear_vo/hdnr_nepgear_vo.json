@@ -155,7 +155,7 @@
 			"type": 32
 		}
 	],
-	"date": 1702412921,
+	"date": 1780811531,
 	"events": [
 		{
 			"event": 5004,
@@ -722,6 +722,7 @@
 	"md5": "89fe3a135cba747603c373a7e6cce993",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "HDNR_nepgear.mdl",
 	"preview": true,
 	"readme": false,

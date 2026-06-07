@@ -96,7 +96,7 @@
 			"type": 32
 		}
 	],
-	"date": 1444943084,
+	"date": 1780811531,
 	"events": [
 		{
 			"event": 2001,
@@ -208,6 +208,7 @@
 	"md5": "1c4bf6d4dc72f8b38c55541e815de797",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player.mdl",
 	"preview": true,
 	"readme": false,

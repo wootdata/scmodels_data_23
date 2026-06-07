@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1185447390,
+	"date": 1780811531,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "ba47a12dd6e4d87d23c623726fcb1d9b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Scientist/Scientist.mdl",
 	"preview": true,
 	"readme": true,

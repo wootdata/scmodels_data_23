@@ -81,7 +81,7 @@
 			"type": 8
 		}
 	],
-	"date": 1206921332,
+	"date": 1780811531,
 	"events": [
 		{
 			"event": 2001,
@@ -193,6 +193,7 @@
 	"md5": "dfd7ff366d7a5ef37456bef90292f0df",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "HL2_EliVance_2.mdl",
 	"preview": true,
 	"readme": false,

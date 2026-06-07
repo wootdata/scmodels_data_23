@@ -192,7 +192,7 @@
 			"type": 8
 		}
 	],
-	"date": 1698612600,
+	"date": 1780811531,
 	"events": [
 		{
 			"event": 5004,
@@ -836,6 +836,7 @@
 	"md5": "39e225559e3b508062f3c6c1648873f2",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "GI_Yanfei.mdl",
 	"preview": true,
 	"readme": false,
